@@ -1,30 +1,25 @@
 ﻿<Properties StartupConfiguration="{F054190F-4087-42A8-81A5-4227697388A1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Proyectos1/Resources/layout/activity_main.xml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proyectos1/.gitignore">
     <Files>
       <File FileName="Proyectos1/MainActivity.cs" Line="25" Column="10" />
-      <File FileName="Proyectos1/Resources/layout/activity_main.xml" Line="13" Column="18" />
-      <File FileName="Proyectos1/Resources/values/strings.xml" Line="5" Column="49" />
+      <File FileName="Proyectos1/Resources/layout/activity_main.xml" Line="2" Column="247" />
+      <File FileName="Proyectos1/ActivitySplash.cs" Line="22" Column="44" />
+      <File FileName="Proyectos1/Resources/layout/activity_splash.xml" Line="5" Column="1" />
+      <File FileName="Proyectos1/.gitignore" Line="464" Column="92" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Proyectos1" expanded="True">
             <Node name="Proyectos1" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Resources" expanded="True">
-                <Node name="layout" expanded="True">
-                  <Node name="activity_main.xml" selected="True" />
-                </Node>
-                <Node name="values" expanded="True" />
-              </Node>
+              <Node name=".gitignore" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Proyectos1 AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" FirstBuild="True" PreferredExecutionTarget="Android.Pixel_2_API_30" />
+  <MonoDevelop.Ide.ItemProperties.Proyectos1 AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_2_API_30" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

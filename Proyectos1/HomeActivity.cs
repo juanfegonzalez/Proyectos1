@@ -13,17 +13,17 @@ using Android.Widget;
 
 namespace Proyectos1
 {
-    [Activity(Label = "ActivitySplash")]
-    public class ActivitySplash : Activity
+    [Activity(Label = "HomeActivity")]
+    public class HomeActivity : Activity
     {
-
-
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            SetContentView(Resource.Layout.activity_splash);
+            Xamarin.Essentials.Platform.Init(this, savedInstanceState);
+            // Set our view from the "main" layout resource
+            SetContentView(Resource.Layout.activity_home);
 
-            
+            // Create your application here
         }
     }
 }

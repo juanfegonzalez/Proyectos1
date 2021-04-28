@@ -13,17 +13,16 @@ using Android.Widget;
 
 namespace Proyectos1
 {
-    [Activity(Label = "ActivitySplash")]
-    public class ActivitySplash : Activity
+    [Activity(Label = "ActivityReg")]
+    public class ActivityReg : Activity
     {
-
-
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            SetContentView(Resource.Layout.activity_splash);
+            Xamarin.Essentials.Platform.Init(this, savedInstanceState);
+            SetContentView(Resource.Layout.activity_reg);
 
-            
+            // Create your application here
         }
     }
 }

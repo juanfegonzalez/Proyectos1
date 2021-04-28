@@ -1,18 +1,22 @@
 ﻿<Properties StartupConfiguration="{F054190F-4087-42A8-81A5-4227697388A1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Proyectos1/.gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proyectos1/Resources/layout/activity_splash.xml">
     <Files>
-      <File FileName="Proyectos1/MainActivity.cs" Line="25" Column="10" />
-      <File FileName="Proyectos1/Resources/layout/activity_main.xml" Line="2" Column="247" />
-      <File FileName="Proyectos1/ActivitySplash.cs" Line="22" Column="44" />
-      <File FileName="Proyectos1/Resources/layout/activity_splash.xml" Line="5" Column="1" />
-      <File FileName="Proyectos1/.gitignore" Line="464" Column="92" />
+      <File FileName="Proyectos1/MainActivity.cs" Line="20" Column="13" />
+      <File FileName="Proyectos1/ActivitySplash.cs" Line="1" Column="1" />
+      <File FileName="Proyectos1/ActivityReg.cs" Line="25" Column="13" />
+      <File FileName="Proyectos1/HomeActivity.cs" Line="26" Column="2" />
+      <File FileName="Proyectos1/Resources/layout/activity_splash.xml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Proyectos1" expanded="True">
             <Node name="Proyectos1" expanded="True">
-              <Node name=".gitignore" selected="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="mipmap-anydpi-v26" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

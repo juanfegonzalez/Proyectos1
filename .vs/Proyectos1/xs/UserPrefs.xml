@@ -1,25 +1,31 @@
 ﻿<Properties StartupConfiguration="{F054190F-4087-42A8-81A5-4227697388A1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Proyectos1/Resources/layout/activity_splash.xml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proyectos1/HomeActivity.cs">
     <Files>
-      <File FileName="Proyectos1/MainActivity.cs" Line="20" Column="13" />
+      <File FileName="Proyectos1/Resources/layout/recycler_item.xml" Line="11" Column="28" />
+      <File FileName="Proyectos1/MainActivity.cs" Line="160" Column="30" />
       <File FileName="Proyectos1/ActivitySplash.cs" Line="1" Column="1" />
-      <File FileName="Proyectos1/ActivityReg.cs" Line="25" Column="13" />
-      <File FileName="Proyectos1/HomeActivity.cs" Line="26" Column="2" />
-      <File FileName="Proyectos1/Resources/layout/activity_splash.xml" Line="1" Column="1" />
+      <File FileName="Proyectos1/HomeActivity.cs" Line="67" Column="46" />
+      <File FileName="Proyectos1/Usuario.cs" Line="6" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Proyectos1" expanded="True">
             <Node name="Proyectos1" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="Assets" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Resources" expanded="True">
                 <Node name="layout" expanded="True" />
-                <Node name="mipmap-anydpi-v26" selected="True" />
               </Node>
+              <Node name="HomeActivity.cs" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

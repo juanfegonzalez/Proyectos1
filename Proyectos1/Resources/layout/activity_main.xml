@@ -14,7 +14,7 @@
 		android:textAlignment="center"
 		android:textSize="40dp"
 		android:id="@+id/user"
-		android:inputType="textPassword"
+		android:text="example"
 		android:layout_height="wrap_content"
 		android:hint="Usuario"/>
 
@@ -23,6 +23,7 @@
 		android:textAlignment="center"
 		android:textSize="40dp"
 		android:id="@+id/pass"
+		android:text="example"
 		android:inputType="textPassword"
 		android:layout_height="wrap_content"
 		android:hint="Password"/>
@@ -36,7 +37,8 @@
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
 			android:id="@+id/login"
-			android:text="Login"/>
+			android:layout_marginEnd="10sp"
+			android:text="Acceder"/>
 
 		<Button
 			android:layout_width="wrap_content"
@@ -47,5 +49,13 @@
 
 
 	</LinearLayout>
+	<ScrollView
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+		<TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+			android:id="@+id/er"/>
+	</ScrollView>
 
 </LinearLayout>

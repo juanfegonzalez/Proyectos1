@@ -1,10 +1,47 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".HomeActivity"
     android:orientation="vertical">
-
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="¿Que dispositivo tienes o quieres?"
+        android:layout_marginBottom="100dp"
+        android:textSize="30sp"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Google"
+        android:id="@+id/goog"
+        android:textSize="40sp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        >
+        <Button
+            android:layout_marginStart="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="40sp"
+            android:id="@+id/alex"
+            android:text="Alexa"/>
+        <Button
+            android:layout_marginStart="20dp"
+            android:layout_width="wrap_content"
+            android:textSize="40sp"
+            android:id="@+id/apple"
+            android:layout_height="wrap_content"
+            android:text="Apple"/>
+        
+    </LinearLayout>
 </LinearLayout>
